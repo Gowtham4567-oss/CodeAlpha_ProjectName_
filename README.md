@@ -43,6 +43,7 @@ PocketSmart AI provides users with a simple and intelligent way to manage their 
 ## Developed By
 
 **Gowtham M.S**
+
 **B.Tech Artificial Intelligence and Data Science**
 
 **Naan Mudhalvan Project – 2026**
